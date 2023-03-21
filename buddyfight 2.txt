@@ -1,0 +1,144 @@
+Centro
+Áreas para colocar seu monstro. A menos que indicado de outra forma nos efeitos do card, você só pode colocar um card
+nesta área. Quando um novo cartão é colocado, o cartão anterior será colocado na zona de soltar. Quando
+“Cartão no campo” é referenciado, este cartão no centro pode ser escolhido.
+Se uma carta estiver no centro, a menos que indicado de outra forma nos efeitos das cartas, o lutador oponente não pode
+mais escolha atacar o lutador diretamente
+
+Esquerda / ⑥ Direita
+Áreas para colocar seus monstros. A menos que indicado de outra forma nos efeitos do card, você só pode colocar um card
+por área. Quando um novo cartão é colocado, o cartão anterior será colocado na zona de soltar. Quando “cartão
+no campo ”é referenciado, este cartão à esquerda (ou direita) pode ser escolhido
+
+Zona de Medição
+Os cartões são colocados com a face para baixo nesta zona durante a parte Charge & Draw da fase stand, ou se
+um efeito requer que o lutador “coloque as cartas no medidor”. A ordem e orientação dos cartões são
+não especificado corretamente, mas colocando-os ligeiramente escalonados um em cima do outro na paisagem
+orientação é altamente recomendada.
+Salvo indicação em contrário nos efeitos das cartas, todos os lutadores não podem verificar o conteúdo das cartas em
+calibre.
+Ao seguir “Pagar medidor X”, coloque cartas do medidor em sua zona de queda. Neste caso,
+o lutador que paga o medidor pode escolher quaisquer cartas do medidor para colocar na zona de queda.
+
+
+
+Uma área para colocar seu amigo escolhido. A menos que indicado de outra forma nos efeitos das cartas, você só pode colocar
+um monstro nesta área. Se a carta for trocada por efeitos de carta, ou se a carta for removida, para isso
+luta, a carta colocada no início da luta será tratada como amigo.
+Se várias cartas forem colocadas na zona do amigo no início da luta, para essa luta, todas as cartas
+colocados serão tratados como amigos.
+Os cartões colocados com a face para baixo em sua zona de amigo não podem ser chamados de amigo e são tratados como em branco
+cartões sem informação.
+Você pode verificar o conteúdo das cartas viradas para baixo em sua zona de amizade, mas seu oponente
+não pode verificar o conteúdo dos cartões virados para baixo na sua zona de amigos.
+Se houver vários cartões em sua zona de amizade, você pode realizar uma chamada de amigo se as condições de
+disse que Buddy Call foi atendido.
+
+Buddy Monster
+
+1-Seu amigo não faz parte do seu deck
+O cartão que indica o mesmo mundo ao qual seu amigo pertence.
+Vamos construir um baralho do mesmo mundo que nossa carta de bandeira
+
+Área coberta
+
+1-50 cartas
+2-Máximo de 4 cópias de cada carta do baralho
+
+Monstro
+1-Ataque seu oponente e seus monstros
+
+Itens
+1-Fighter pode equipá-los e se juntar à luta
+
+Soletrar
+1-Card que ajuda você em suas lutas
+
+Impacto
+1-Cards com habilidades extremamente poderosas
+
+Monstro de Impacto
+1-Monstros que também são impactos
+
+Prepare a luta
+
+1-Flag e Buddy ficam virados para baixo
+2-Embaralhe o baralho e tire 6 cartas na mão
+3-Coloque as 2 primeiras cartas do baralho na medida
+4-Determine quem vai primeiro
+5-Cada lutador começa com 10 pontos de vida
+6-Levante a bandeira!
+
+Fase Inicial
+
+1-Stand (não há nada para ficar)
+2-Empate (o jogador que vai primeiro não pode empatar)
+3-Gauge, então desenhe novamente
+
+Fase principal
+
+Monstro de 1 chamada
+2-Equipar item
+3-feitiço (se disponível)
+(a soma dos tamanhos dos monstros chamados deve ser 3 ou menos)
+
+Fase de Ataque
+
+1-Declare um ataque
+(o jogador que vai primeiro só pode atacar uma vez)
+2-lançar feitiços (se disponível)
+
+Buddy Monster
+
+1-Your Buddy is not part of your deck
+The card that indicate the same world your Buddy belongs to .
+Let's build a deck from the same world as our flag card
+
+Deck
+
+1-50 cards
+2-Maximum 4 copies of each card in the deck
+
+Monster
+1-Attack your opponent and their monsters
+
+Itens
+1-Fighter can equip them and join the fight
+
+Spell
+1-Card that aid you in your fights
+
+Impact
+1-Cards with extremely powerful abilities
+
+Impact Monster
+1-Monsters that are also Impacts
+
+Prepare the Fight
+
+1-Flag and Buddy go face down
+2-Shuffle deck and draw 6 cards into hand
+3-Place top 2 cards of the deck into gauge
+4-Determine who goes first
+5-Each fighter starts with 10 life
+6-Raise the flag!
+
+Start Phase
+
+1-Stand ( there's nothing to stand )
+2-Draw ( the player who goes first cannot draw )
+3-Gauge, then draw again
+
+Main Phase
+
+1-Call monster
+2-Equip item
+3-Cast spell ( if available )
+( sum of called monsters sizes must be 3 or less )
+
+Attack Phase
+
+1-Declare an attack
+( the player who goes first may only attack once )
+2-Cast spells ( if available )
+
