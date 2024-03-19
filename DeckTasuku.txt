@@ -1,0 +1,25 @@
+Buddyfight 
+
+Deck do Tasuku Ryuenji
+
+Deck : Danger World tem 373 cartas
+-Spell / Feitiços = 89
+-Item = 34
+-Monstros = 225 ( T1 , T2 = 117
+T2C2 = 62
+
+Spell - Battle Aura Circle
+■ Você só pode conjurar esta carta durante um ataque no turno do seu oponente e se você não tiver um monstro no centro. 
+■ [Contador] Anula o ataque.
+
+Spell - Invigorating Breath
+■ Você só pode lançar esta carta se tiver uma 《Arma》 equipada e não tiver um monstro no centro. 
+■ Ganhe 4 pontos de vida. A quantidade de pontos de vida que você ganha é reduzida pelo número de "Respiração Revigorante" que você tem em sua zona de queda.
+
+Item - Boulder Piercing Spear
+3k 2
+
+2 - Armorknight Cerberus
+5k 2 5k
+■ 【Ato】 Você pode colocar um tamanho 1 ou menos 《Armorknight》 do seu campo na alma deste monstro. 
+■ 【Ato】 "Full Fire" Você pode descartar uma alma deste monstro. Se o fizer, destrua um monstro no campo do oponente! [Soulguard] (se esta carta sair do campo, você pode descartar uma alma para evitá-lo)
