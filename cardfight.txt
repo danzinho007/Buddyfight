@@ -1,0 +1,56 @@
+1
+2
+3
+4
+1000
+2000
+3000
+4000
+6000
+>
+Act
+Auto = Automático
+CONT = 
+CRITICAL = Aumenta o dano em 1
+DRAW = Permite puxar 1 carta
+G = 
+Grade = Vai de 0 a X
+Heal = Cura 1 de dano
+LB
+Normal Unit = Unidade de Atq/Def
+Power = Poder de Ataque
+R = Rear Guard
+Restraint
+Shield = Poder de Defesa
+Sword = Poder de Defesa
+Trigger Unit = Unidade de Suporte
+UP = Aumenta ataque
+V = Círculo Central
+Virar = Pagar dano
+
+Raridade : 
+C = Comum
+UC = Incomum
+EN = Elite Normal
+R = Rara
+RR = Dupla Rara
+RRR = Tripla Rara
+GR = Rara Garantida
+
+Clã : 
+Gold Paladin
+Granblue
+Neo Nectar
+Nova Grappler
+
+Raça : 
+Alien
+Battleroid
+Dryad
+Elf
+Forest Dragon
+Ghost
+Giant
+Human
+Warbeast
+Zombie
