@@ -19,25 +19,29 @@ Aqua Force - Aquaroid
 0014-
 0015-Storm Ride Basil
 0016-
-0017-
-0018-
+0017-Tear Knight
+0018-Blue Storm Dragon Maelstrom
+Aqua Force - 
 0019-
 0020-Toolkit Boy
-0021-
+Nova Grappler - Workeroi
+0021-Black Dragon
 0022-
 0023-
 0024-
-0025-
+0025-Navalgazer
 0026-
 0027-
 0028-
 0029-Battleraizer
+Nova Grappler - Battleroid
 0030-Beast Deity White Tiger
 0031-
 0032-
 0033-
 0034-
 0035-Brutal Jack
+Nova Grappler - 
 0036-Hungry Dumpty
 0037-
 0038-
@@ -47,16 +51,17 @@ Aqua Force - Aquaroid
 0042-
 0043-
 0044-
-0045-
+0045-Red Lightning
 0046-Ring Girl Clara
 0047-Shining Lady
 0048-
 0049-Asura Kaiser
 0050-Brutal Joker
 0051-
-0052-
-0053-
-0054-
+0052-Three Minutes
+0053-Tought Boy
+0054-Twin Blader
+Nova Grappler - 
 0055-
 0056-
 0057-
@@ -65,8 +70,10 @@ Aqua Force - Aquaroid
 0060-Photon Archer Griflet
 0061-
 0062-
-0063-
-0064-
+0063-Sleygal Sword
+Gold Paladin - 
+0064-Great Silver Wolf Garmore
+Gold Paladin - 
 0065-
 0066-
 0067-
@@ -80,8 +87,10 @@ Nova Grappler - Alien
 0073-
 0074-
 0075-Skeleton
-0076-
-0077-
+0076-Deadly Nightmare
+Granblue - Ghost
+0077-Incandescent Lion Blond Ezel
+Gold Paladin - 
 0078-
 0079-
 0080-Cray Soldier		
@@ -90,9 +99,12 @@ Nova Grappler - Alien
 0083-
 0084-
 0085-Knight of Verdure Gene
-0086-
-0087-
-0088-
+0086-Muscle Hercules
+Nova Grappler - 
+0087-Perfect Raizer
+Nova Grappler - Battleroid
+0088-Top Gun
+Nova Grappler - 
 0089-
 0090-Battle Sister Eclair
 0091-
