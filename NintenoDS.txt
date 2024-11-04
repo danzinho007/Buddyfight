@@ -1,0 +1,48 @@
+Nintendo DS
+
+1-Lancamento ? E3 de 2004
+EUA   21/11/2004
+Japao 02/12/2004
+
+2-Geracao ? 
+7‹ com PSP PS3 Xbox 360 Wii
+
+3-Pricipal Concorrente ? 
+PSP
+
+4-Modelos ?
+DS > DS Lite > DSi > Dsi XL
+
+5-Telas ?
+3 polegadas
+256 mil cores
+
+6-Processadores ?
+ARM 9 67 Mhz = Principal 
+ARM 7 33 Mhz = Som, Wi-Fi e GBA games
+
+7-Memoria ?
+4 MB
+
+8-Placa Mae ?
+Modulo WiFi-Slot para cartucho DS - CPU NTR
+	     Slot para cartucho GBA
+
+9-Armazenamento ?
+512 MB
+
+10-Jogos pesados ?
+
+Kindom Hearts     = ?
+MetroidPrimeHunter= ?
+Okami DEN 	  = ?
+Super Mario 64 DS = ?
+The Legend of Zeld= ?
+The Wizard of Oz  = ?
+The Wonderful     = ?
+
+11-Forwarders ?
+
+Atalhos de jogos de GBA
+
+12-

@@ -1,0 +1,16 @@
+
+Preciso :
+Carta destruir carta arm
+Carta destruir carta mag
+
+Deck 
+
+10Efe-Armed Dragon Lv 10 3000/2000
+4Efe-Axe Dragonute 2000/1200 = x2
+Mag-Mystical Space Typhoon
+
+Limitar :
+MagCont - Ground Collapso
+MagCont - Gravity Bound
+MagCont - Level Limit B
+ArmCont - Spatial Collapse
